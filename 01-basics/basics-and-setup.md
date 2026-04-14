@@ -1,7 +1,3 @@
-Great — let’s make your **Day 1 super clear, practical, and GitHub-note ready** 🚀
-
----
-
 # 📘 Day 1 – React Basics + Setup with Vite
 
 ## 🔹 1. What is React?
